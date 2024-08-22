@@ -1,1 +1,1 @@
-# Game
+Tic Tac Toe game is a classic two-player game implemented using HTML, CSS, and JavaScript. It allows players to take turns marking spaces in a 3x3 grid with their respective symbols—typically "X" and "O." The objective is to be the first to align three of one's symbols either horizontally, vertically, or diagonally.
